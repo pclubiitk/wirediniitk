@@ -1,1 +1,0 @@
-WiredinIITK Writeups
